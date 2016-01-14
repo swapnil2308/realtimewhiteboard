@@ -1,6 +1,6 @@
 {
-  "name": "InteractiveWhiteboard",
-  "description": "Interactive Whiteboard",
-  "repository": "https://github.com/rohan591/draw",
+  "name": "RealtimeWhiteboard",
+  "description": "Realtime Whiteboard",
+  "repository": "https://github.com/swapnil2308/realtimewhiteboard",
   "keywords": ["node", "express", "static"]
 }
