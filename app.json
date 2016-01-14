@@ -1,6 +1,6 @@
 {
-  "name": " Real-Time Whiteboard",
-  "description": "Real-Time Whiteboard",
+  "name": "RealTime Whiteboard",
+  "description": "RealTime Whiteboard",
   "repository": "https://github.com/swapnil2308/realtimewhiteboard",
   "keywords": ["node", "express", "static"]
 }
